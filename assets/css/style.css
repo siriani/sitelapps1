@@ -1074,3 +1074,10 @@ section {
     padding: 5px 0;
   }
 }
+
+.css-1vswgxm{box-sizing:border-box;margin:0;min-width:0;}.css-1vswgxm svg{height:20px;width:80px;}.css-1vswgxm svg path{fill:var(--theme-ui-colors-white,#000);}@media screen and (min-width:40em){.css-1vswgxm svg{height:20px;width:80px;}}@media screen and (min-width:56em){.css-1vswgxm svg{height:30px;width:90px;}}
+
+.css-linegrip {
+	display: inline-grid;
+	grid-gap: 35px;
+}
